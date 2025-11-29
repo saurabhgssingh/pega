@@ -1,0 +1,16 @@
+[project]
+name = "pegasystems"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "groq>=0.36.0",
+    "imapclient>=3.0.1",
+    "pandas>=2.3.3",
+    "plotly>=6.5.0",
+    "pyarrow>=22.0.0",
+    "pydantic>=2.12.5",
+    "streamlit>=1.50.0",
+]

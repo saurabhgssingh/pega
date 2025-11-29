@@ -1,0 +1,427 @@
+id,subject,body,email_content,intent,customer_name,product,requested_action
+1,Trouble connecting my new headphones,"Hi Support,
+I bought the SonicBoom Wireless Headphones last Tuesday, and I’m having a really hard time keeping them connected to my phone. They pair fine initially, but after about 10 minutes, the audio cuts out completely. I’ve tried resetting them and forgetting the device on my iPhone, but the issue persists. Can someone help me troubleshoot this? I need them for my commute.
+Best regards,
+Jason Miller","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",troubleshoot connectivity,Jason Miller,SonicBoom Wireless Headphones,troubleshoot
+2,Error code 404 during setup,"Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",installation_error,Sarah Jenkins,Vector Graphics Suite 2024,troubleshoot installation
+3,Watch battery draining too fast,"To whom it may concern,
+I’ve noticed that my Apex Smartwatch Gen 5 is barely lasting half a day on a full charge. The advertising said it should last 48 hours. I’m not even using the GPS features, just basic notifications. Is my unit defective or is there a setting I need to change?
+Sincerely,
+Amit Patel","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",battery performance issue,Amit Patel,Apex Smartwatch Gen 5,investigate battery issue
+4,Coffee machine making strange noises,"Hi there,
+My BaristaPro Espresso Maker started making a really loud grinding noise this morning when I tried to pull a shot. Water is coming out, but the pressure gauge isn’t moving. I’ve only had this machine for three months. Is this something I can fix myself or do I need a technician?
+Elena Rodriguez","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",technical support,Elena Rodriguez,BaristaPro Espresso Maker,technician
+5,Hub not finding devices,"Good morning,
+I recently upgraded my router, and now my HomeGuard Security Hub refuses to reconnect to the Wi-Fi. I’ve held the reset button for 10 seconds as per the manual, but the light stays red. I can't view any of my cameras right now. Please assist.
+Michael Chang","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",connectivity issue,Michael Chang,HomeGuard Security Hub,assist
+6,Display issues on new laptop,"Hi Team,
+I received my Titan Gaming Laptop X15 yesterday. While the performance is great, I’m noticing a distinct flicker on the bottom left of the screen when the brightness is set to high. It’s very distracting during gameplay. I’ve updated the drivers, but it hasn't helped.
+Jessica Bloom","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",display issue,Jessica Bloom,Titan Gaming Laptop X15,repair
+7,Broken screen in shipment,"Hello,
+I am extremely disappointed. I just opened the box for the UltraView 4K Monitor I ordered, and the screen is completely shattered. The shipping box looked crushed on one corner. I need a replacement sent out immediately or a full refund. I have attached photos of the damage.
+David Thorne","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",damage,David Thorne,UltraView 4K Monitor,replacement or full refund
+8,You sent the wrong color,"Hi,
+I ordered the Velvet Armchair in Navy Blue (Order #9982), but what arrived today is clearly Forest Green. It clashes with my living room decor. I’d like to return this and get the correct color sent to me. Please send a return label.
+Priya Singh","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",wrong color,Priya Singh,Velvet Armchair,return and send correct color
+9,Returning the vacuum,"Hi Customer Service,
+I would like to request a refund for the Cyclone Stick Vacuum. I’ve used it twice, and honestly, the suction power is just not strong enough for my carpets. It’s not damaged, but it’s not working for my needs. How do I go about sending this back?
+Tom Hansen","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",refund,Tom Hansen,Cyclone Stick Vacuum,refund
+10,Cancel and refund please,"Hello,
+My son accidentally purchased the Galactic Raiders Game on my account without my permission. We have not downloaded or played it yet. Can you please reverse this transaction and refund the $59.99 to my card?
+Thank you,
+Linda Wei","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",refund,Linda Wei,Galactic Raiders Game,refund
+11,Boots falling apart,"Hi,
+I bought a pair of TrailBlazer Hiking Boots three weeks ago. After just one hike, the sole is already peeling off the left boot. I expect much better quality for this price. I want my money back, I don't want an exchange.
+Marcus Johnson","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",refund,Marcus Johnson,TrailBlazer Hiking Boots,refund
+12,Arrived too late,"To the support team,
+I ordered the PartyBox Bluetooth Speaker for a birthday party happening last weekend. It just arrived today, which is three days late. I ended up buying one locally. I no longer need this item. Please process a refund.
+Chloe Evans","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",refund,Chloe Evans,PartyBox Bluetooth Speaker,refund
+13,Charged twice for the same order,"Hi,
+I was checking my credit card statement and noticed two pending charges of $49.99 for my subscription to MealPlan Plus. I only authorized one month. Please refund the duplicate charge immediately and confirm that my auto-renew is actually off.
+Robert Downey","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",refund,Robert Downey,MealPlan Plus,refund
+14,Locked out of my account,"Hello,
+I am trying to log in to manage my CloudDrive Storage settings, but it says my account is locked. I tried the ""forgot password"" link, but I never received the email. Can someone please help me regain access? I have important files I need to get to.
+Fatima Al-Fayed","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",,,,
+15,Stop my subscription,"Hi,
+Please cancel my subscription to FitLife Pro effective immediately. I am not using the app enough to justify the monthly cost. I want to make sure I am not charged for next month (December).
+Greg Norman","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",cancel subscription,Greg Norman,FitLife Pro,cancel subscription
+16,Need receipt for tax purposes,"Good afternoon,
+Could you please send me a PDF invoice for the purchase of the ErgoOffice Desk Chair? I bought it last week, but I can't find the receipt in my email. I need it to submit an expense report to my company.
+Samantha Lee","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",request receipt,Samantha Lee,ErgoOffice Desk Chair,send PDF invoice
+17,Update shipping address,"Hi,
+I just placed an order for the InstaPot Duo about an hour ago. I realized I accidentally used my old apartment address. Can you please update the shipping address to 123 Maple Street? I hope it hasn't shipped yet.
+Kevin O'Connor","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",address change,Kevin O'Connor,InstaPot Duo,update shipping address
+18,Upgrading to the family plan,"Hello Team,
+I currently have the individual plan for StreamMusic Unlimited. I want to upgrade to the Family Plan so my kids can use it too. How do I do this without losing my current playlists?
+Angela Rossi","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",plan upgrade,Angela Rossi,StreamMusic Unlimited,upgrade to Family Plan
+19,Tracking says delivered but no package,"Hi,
+I have a problem. The tracking number for my SilentNight Humidifier says it was delivered yesterday at 2:00 PM. I was home all day and nobody rang the doorbell, and there is nothing on my porch. Can you help me locate my order?
+Peter Parker","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",delivery issue,Peter Parker,SilentNight Humidifier,locate order
+20,Missing items from my order,"Hello,
+I received my package today. The Yoga Mat is inside, but the set of Resistance Bands that I ordered in the same transaction is missing. The packing slip lists both items. Are the bands coming in a separate box?
+Lara Croft","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",missing items,Lara Croft,Resistance Bands,send missing item
+21,When will it ship?,"Hi,
+I pre-ordered the NextGen Console two months ago. The website said it would ship by the 15th, but my status still says ""Processing."" Can you give me an update on when this is actually going to be sent out?
+Bruce Wayne","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",shipping status inquiry,Bruce Wayne,NextGen Console,provide shipping update
+22,Will this work with my Mac?,"Hi,
+I am looking at buying the External SSD 2TB you have on sale. The description mentions Windows, but doesn't explicitly say it works with macOS Monterey. Can you confirm if this is compatible before I buy it?
+Steve Rogers","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",compatibility inquiry,Steve Rogers,External SSD 2TB,confirm compatibility with macOS Monterey
+23,Discount didn't apply,"Hello,
+I just bought the Winter Down Jacket and tried to use the code WELCOME20. The system said the code was valid, but the final price on my receipt doesn't show the 20% discount. Can you adjust the price for me?
+Natasha Romanoff","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",discount not applied,Natasha Romanoff,Winter Down Jacket,adjust the price to apply the 20% discount
+24,Feature request for the app,"Hi Team,
+I love using the TaskMaster Project Tool, but I really wish there was a dark mode for the mobile app. The white background is too bright when working late at night. Are there plans to add this?
+Tony Stark","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",feature request,Tony Stark,TaskMaster Project Tool,add dark mode
+25,Motor stopped working,"To Support,
+My HydroClean Power Washer just died in the middle of washing my driveway. I bought it 11 months ago, so it should still be under the 1-year warranty. How do I initiate a warranty claim for a repair or replacement?
+Thor Odinson","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",warranty claim,Thor Odinson,HydroClean Power Washer,initiate a warranty claim for a repair or replacement
+26,I have two accounts,"Hi,
+I realized I have two accounts for ReaderDigest Online, one under my personal email and one under my work email. Is it possible to merge them so all my saved articles are in one place?
+Diana Prince","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",account merge,Diana Prince,ReaderDigest Online,merge accounts
+27,Lost the remote,"Hello,
+We moved recently and I seem to have lost the remote control for my VisionX 55"" Smart TV. Do you sell replacement remotes separately? I can't find one on your website.
+Clark Kent","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",replacement,Clark Kent,"VisionX 55"" Smart TV",replacement
+28,Unauthorized transaction,"Urgent,
+I just got a notification that my card was used to buy a Gift Card on your site. I did not make this purchase! Please cancel this immediately and refund my card.
+Wanda Maximoff","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",unauthorized transaction,Wanda Maximoff,Gift Card,cancel and refund
+29,adding installation to order,"Hi,
+I ordered the HeavyDuty Washing Machine yesterday. I forgot to select the ""Professional Installation"" add-on. Is it too late to add that service to my order? I don't think I can install it myself.
+Bucky Barnes","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",add installation service,Bucky Barnes,HeavyDuty Washing Machine,add professional installation
+30,Sparking plug,"URGENT:
+I plugged in my HeatWave Space Heater for the first time and saw a visible spark at the wall outlet and smelled burning plastic. I unplugged it immediately. This seems dangerous. How do I return this safely?
+Clint Barton","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",safety concern,Clint Barton,HeatWave Space Heater,return
+31,Printer refuses to connect to network,"Hi Support,
+I purchased the PrintMaster 5000 for our small office last week. We managed to get it working via USB, but the wireless feature is failing. It finds the network, asks for the password, and then just spins until it times out. We have a standard WPA2 setup. Can someone guide us through the network configuration? We need this wireless for our mobile devices.
+Thanks,
+Sarah Connor","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",troubleshooting network connectivity,Sarah Connor,PrintMaster 5000,guide through wireless network configuration
+32,Question about bulk pricing,"Good morning,
+I am looking to outfit our entire sales team with the Ergonomic Wrist Rest Pro. We would need about 50 units. I see the price on the website is $25 each, but do you offer a corporate discount for bulk orders? If so, could you please send over a quote?
+Best regards,
+Dwight Schrute","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",pricing inquiry,Dwight Schrute,Ergonomic Wrist Rest Pro,request quote for bulk discount
+33,Subscription auto-renewed by mistake,"Hello,
+I just got an email saying my subscription to CloudSync Premium has been renewed for another year ($120). I meant to cancel this before the trial ended yesterday but forgot. I haven't uploaded any files since I signed up. Is it possible to cancel this now and get a refund on the renewal fee?
+John Wick","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",refund,John Wick,CloudSync Premium,cancel subscription and refund the renewal fee
+34,Wrong size received,"Hi,
+I ordered the Vintage Denim Jacket in a size Medium. The package arrived today, and the tag on the jacket clearly says ""Small."" It’s way too tight. I’d like to exchange this for the Medium I originally ordered. Do I have to pay for return shipping if it was your mistake?
+Marty McFly","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",exchange,Marty McFly,Vintage Denim Jacket,exchange for Medium size
+35,2FA code not arriving,"To Security Support,
+I am trying to log into my SecureVault Banking App on a new phone. It asks for a 2-factor authentication code via SMS, but I have been waiting for 20 minutes and haven't received anything. My phone number hasn't changed. Can we try verifying via email instead?
+James Bond","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",2FA code not received,James Bond,SecureVault Banking App,verify via email
+36,Incomplete shipment inquiry,"Hello,
+I ordered the Bedroom makeover set (Order #4451). The bed frame arrived via freight yesterday, but the Memory Foam Mattress was not on the truck. The driver said he only had one box for me. When can I expect the mattress? I can't really use the bed without it.
+Sleeping Beauty","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",incomplete shipment,Sleeping Beauty,Bedroom makeover set,deliver missing Memory Foam Mattress
+37,Data export feature request,"Hi,
+I've been using FinanceTracker 360 for my personal accounting for two years. It's great, but I really need a way to export my data to a CSV or Excel file so I can share it with my accountant. Currently, I can only print PDFs. Is this feature on your roadmap?
+Gordon Gekko","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",feature request,Gordon Gekko,FinanceTracker 360,add data export to CSV/Excel
+38,Leaking product,"Hi,
+I received my order for the GlowSkin Vitamin C Serum today. Unfortunately, the cap was loose and about half the bottle leaked out inside the bubble wrap. It’s a sticky mess. Can you send a replacement bottle? I can send photos of the packaging.
+Daenerys Targaryen","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",leak complaint,Daenerys Targaryen,GlowSkin Vitamin C Serum,replacement
+39,Game keeps crashing on load,"Support,
+I bought Starship Commander on PC yesterday. Every time I try to load the second mission, the game freezes and crashes to the desktop without an error message. My drivers are up to date. Is there a patch coming for this? I can't progress in the game.
+Luke Skywalker","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",technical issue,Luke Skywalker,Starship Commander,provide patch or fix
+40,Need to expedite shipping,"Hi there,
+I placed an order this morning for the Silk Evening Gown. I selected standard shipping, but I just found out I need it for an event this Friday. Is it possible to pay the difference to upgrade to Overnight or 2-Day shipping? Please let me know ASAP so it doesn't ship standard.
+Rachel Green","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",shipping upgrade,Rachel Green,Silk Evening Gown,upgrade to overnight or 2-day shipping by paying the difference
+41,GDPR - Delete my account,"To the Privacy Officer,
+I am writing to request the deletion of my account and all associated personal data from the SocialConnect platform, in accordance with GDPR regulations. Please confirm once my data has been permanently removed from your servers.
+Hermione Granger","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",account deletion,Hermione Granger,SocialConnect platform,delete account
+42,Customization inquiry,"Hello,
+I see you sell the Neon Bar Sign on your site. Do you do custom orders? I want one that says ""Saul's Office"" in yellow and blue. Let me know the lead time and pricing for custom work.
+Saul Goodman","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",customization inquiry,Saul Goodman,Neon Bar Sign,custom order request for personalized sign with lead time and pricing
+43,Sync failed with Strava,"Hi,
+My FitnessBand X is tracking my steps fine on the watch itself, but it stopped syncing with the Strava app on my phone about three days ago. I tried unlinking and relinking the accounts, but it says ""Sync Error."" Any ideas?
+Steve Austin","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",sync issue,Steve Austin,FitnessBand X,resolve sync error
+44,Allergy information needed,"Hi,
+I want to buy the Nutty Granola Bars for my son's school trip, but the website description doesn't explicitly say if they are produced in a nut-free facility. He has a severe peanut allergy. Can you confirm if there is cross-contamination risk?
+Charlie Bucket","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",product inquiry,Charlie Bucket,Nutty Granola Bars,confirm allergy information and cross-contamination risk
+45,Update payment method,"Hello,
+My credit card on file for the Monthly Wine Box subscription has expired. I tried to update it in the portal, but the 'Save' button is greyed out. I don't want to miss this month's shipment. Can someone help me update my card manually?
+Tyrion Lannister","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",update payment method,Tyrion Lannister,Monthly Wine Box subscription,manual credit card update
+46,Complaint about delivery driver,"To Customer Service,
+I need to report an incident with the delivery of my GroceryFresh Order. The driver left the bags in the middle of the driveway in the rain, instead of on the covered porch. Half my paper bags soaked through and ripped. I expect a refund for the damaged items.
+Karen Page","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",complaint,Karen Page,GroceryFresh,refund
+47,Smart bulb won't pair,"Hi,
+I bought a 4-pack of LumaHome Bulbs. Three of them paired with the app immediately, but the fourth one just blinks rapidly and won't connect no matter what I do. I think this specific bulb is a dud. How do I get a replacement for just the one bulb?
+Thomas Edison","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",replacement,Thomas Edison,LumaHome Bulbs,replacement
+48,Educational discount inquiry,"Hello,
+I am a university student studying architecture. I want to buy the DesignPro Software license, but the full price is a bit out of my budget. Do you offer an educational discount for students with a valid .edu email address?
+Miles Morales","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",educational discount inquiry,Miles Morales,DesignPro Software license,information about educational discount
+49,Merging loyalty points,"Hi,
+I have two loyalty cards for the Morning Coffee Club because I forgot mine once and started a new one. Is there a way to combine the points from card #1234 and card #5678 onto a single account? I want to redeem my free drink.
+Lorelai Gilmore","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",merge loyalty points,Lorelai Gilmore,Morning Coffee Club,combine points from card #1234 and card #5678 onto a single account
+50,Refund for cancelled event,"Hi,
+I bought tickets for the Summer Rock Festival via your platform. The event organizers just announced it's cancelled due to weather. Will the refund for my tickets happen automatically, or do I need to file a claim form?
+Jimi Hendrix","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",refund,Jimi Hendrix,Summer Rock Festival tickets,refund
+51,Drone drifting to the left,"Support,
+My SkyEye Drone has a serious calibration issue. Even in zero wind, it drifts hard to the left. I've done the compass calibration and the IMU reset twice. It makes it very hard to land safely. Is this a motor issue?
+Maverick Mitchell","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",technical issue,Maverick Mitchell,SkyEye Drone,repair
+52,Unknown fee on statement,"Hello,
+I am looking at my bank statement and I see a charge of $4.99 from your company labeled ""Service Fee."" I never agreed to this. I only bought the product, I didn't sign up for any service. Please explain this charge or refund it immediately.
+Scrooge McDuck","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",fee dispute,Scrooge McDuck,,refund
+53,Returning a gift,"Hi,
+I received the TurboShaver 3000 as a gift for my birthday, but I already have one. I don't have the original receipt, just the gift receipt. Can I return this for store credit instead of a refund to the purchaser's card?
+Harry Potter","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",return,Harry Potter,TurboShaver 3000,store credit
+54,Stock availability check,"Hi,
+I've been trying to find the AirJump Sneakers in the ""Retro Red"" colorway, size 11. Your website says ""Out of Stock,"" but I was wondering if you have any inventory in your physical warehouse that isn't listed online? Or do you know when you will restock?
+Michael Jordan","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",stock availability check,Michael Jordan,AirJump Sneakers,inquire about restock and inventory availability
+55,Thermostat wiring help,"Hello,
+I am trying to install the ThermoSmart V2. My wall has a wire labeled ""K"" but your manual doesn't mention where a K-wire goes. I don't want to short out my HVAC system. Can you send me a wiring diagram for a system with a K-wire?
+Frodo Baggins","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",technical support,Frodo Baggins,ThermoSmart V2,send wiring diagram for system with a K-wire
+56,Change email address,"Hi,
+I need to update my profile. I am changing jobs and my account is currently linked to my work email (lois@dailyplanet.com). I need to change it to my personal email so I don't lose access to my purchase history.
+Lois Lane","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",update account email,Lois Lane,account,change email address
+57,Food quality issue,"To Whom It May Concern,
+We ordered the Family Feast Meal Kit last night. The chicken included in the kit smelled awful and was clearly spoiled. We had to throw the whole dinner out and order pizza. I am extremely unhappy with the quality control. I want a full refund.
+Gordon Ramsay","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",refund,Gordon Ramsay,Family Feast Meal Kit,refund
+58,App crashes on startup,"Hi,
+Since the last update on iOS, the CryptoWallet App crashes immediately upon opening. I can't access my funds. I've tried reinstalling the app and restarting my phone, but nothing works. Please fix this bug ASAP.
+Satoshi Nakamoto","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",technical issue,Satoshi Nakamoto,CryptoWallet App,fix bug
+59,Missing screws for assembly,"Hi,
+I am currently trying to put together the Nordic Bookshelf I bought. Step 3 requires 'Screw Type B', but the bag is completely empty. I can't finish building this without them. Can you ship a hardware pack to me?
+Bob the Builder","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",missing parts,Bob the Builder,Nordic Bookshelf,ship a hardware pack
+60,Where is my refund?,"Hello,
+I returned the NoiseCancel Headphones two weeks ago. I got an email confirming you received the return on the 10th. It is now the 24th and I still haven't seen the credit appear on my Visa card. How long does this usually take?
+Clark Griswold","Subject: Error code 404 during setup 
+ Body:Hello,
+I am trying to install the Vector Graphics Suite 2024 on my Windows 11 machine, but the installation keeps crashing at 85%. It gives me an ""Error Code 404 - Missing Library"" message. I have already checked my system specs and I definitely have enough RAM. Please let me know how to fix this so I can get back to work.
+Thanks,
+Sarah Jenkins",refund,Clark Griswold,NoiseCancel Headphones,refund

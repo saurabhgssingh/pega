@@ -9,7 +9,7 @@ import time
 import sys
 from email.utils import parsedate_to_datetime
 from app.db_utils import insert_record, IncidentRecord
-from groq_utils import email_structure,get_email_attributes
+from app.api_utils import email_structure,get_email_attributes
 
 # 2. Function to convert email date string to Database-friendly format (ISO 8601)
 def parse_email_date(date_str):
@@ -44,7 +44,7 @@ IMAP_URL = "imap.gmail.com"
 CHECK_INTERVAL = 10 # Seconds between checks
 
 # --- YOUR CUSTOM FUNCTION ---
-async def extract_info(email_data):
+def extract_info(email_data):
     """
     This function is triggered whenever a new email is received.
     email_data is a dictionary containing: 'subject', 'from', 'body'
@@ -54,7 +54,7 @@ async def extract_info(email_data):
     # Example logic: Extract specific data or print it
     content = email_structure.format(subject=email_data['subject'],
                            body=email_data['body'])
-    attributes = await get_email_attributes(content)
+    attributes = get_email_attributes(content)
     return attributes
     
     
@@ -98,7 +98,7 @@ def get_email_body(msg):
     return body
 
 # --- MAIN LISTENER ---
-async def start_listening():
+def start_listening():
     print(f"Connecting to {IMAP_URL} as {USERNAME}...")
     
     try:
@@ -132,7 +132,7 @@ async def start_listening():
                                     "body": get_email_body(msg)}
                                 
                                 # --- EXECUTE Extract function ---
-                                attributes = await extract_info(email_content)
+                                attributes =  extract_info(email_content)
                                 print(attributes)
                                 # -----------------------------
                                 # --- Write to db---

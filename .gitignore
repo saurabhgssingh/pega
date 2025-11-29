@@ -11,3 +11,4 @@ wheels/
 .env
 email.ipynb
 key.txt
+.streamlit/secrets.toml

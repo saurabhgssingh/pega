@@ -1,5 +1,6 @@
 import asyncio
 import time
+import os
 import streamlit as st
 from dotenv import load_dotenv
 from app.main import render_dashboard
@@ -7,6 +8,10 @@ from app.email_utils import start_listening
 
 AUTO_REFRESH_INTERVAL = 10   # seconds
 load_dotenv()
+
+os.environ("EMAIL_PASSWORD") = st.secrets["EMAIL_PASSWORD"]
+os.environ("EMAIL_USERNAME") = st.secrets["EMAIL_USERNAME"]
+os.environ("GROQ_API_KEY") = st.secrets["GROQ_API_KEY"]
 def main():
     # Run your dashboard content
     render_dashboard()

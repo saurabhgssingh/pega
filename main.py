@@ -13,9 +13,11 @@ os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
 
 
 
+base = os.getcwd()
+
 pages = [
-        st.Page(r"app\pages\manual_test.py", title="Test Manually"),
-        st.Page(r"app\pages\dashboard.py", title="Dashboard")
+    st.Page(os.path.join(base, "app", "pages", "manual_test.py"), title="Test Manually"),
+    st.Page(os.path.join(base, "app", "pages", "dashboard.py"), title="Dashboard")
 ]
 
 pg = st.navigation(pages)

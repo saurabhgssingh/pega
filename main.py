@@ -21,4 +21,10 @@ pages = [
 ]
 
 pg = st.navigation(pages)
+with st.sidebar:
+    st.warning(
+        "📬 **This dashboard tracks incidents reported to**\n"
+        "**helpdeskpega@gmail.com**"
+    )
+
 pg.run()
